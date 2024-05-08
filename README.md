@@ -1,1 +1,1 @@
-# RunWithIt-Fenix7s
+# Fenix 7s Watch Face
